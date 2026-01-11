@@ -5,3 +5,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.box {
+    display: flex;
+    align-items: center;
+    padding: 20px 80px;
+    border-style: ridge;
+    width: 600px;
+}
+
+.text {
+    flex: 1;
+    padding-right: 40px;
+}
